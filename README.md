@@ -105,7 +105,7 @@ Personal portfolio showcasing AI, backend, Python, Go, and SaaS projects. Deploy
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### PeterLightspeed Projects
 Source code from my Python, Go, AI, and web development tutorials and live coding sessions.
@@ -114,6 +114,18 @@ Source code from my Python, Go, AI, and web development tutorials and live codin
 
 [![Repo](https://img.shields.io/badge/Repo-View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/peterlightspeed/peterlightspeed_projects)
 [![Demo](https://img.shields.io/badge/Demo-N%2FA-lightgrey?style=flat-square)](#)
+
+</td>
+<td width="50%" valign="top">
+
+### PLS Nexus Talent Intelligence
+AI-powered resume screening backend. Currently ships secure JWT authentication, PDF resume upload with validation and text extraction, and async PostgreSQL data models. AI-based resume analysis, scoring, and job matching are in progress.
+
+**Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy (Async) · JWT
+
+<!-- Add real repo link once public -->
+[![Repo](https://img.shields.io/badge/Repo-Coming%20Soon-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Status](https://img.shields.io/badge/Status-In%20Progress-F2994A?style=flat-square)](#)
 
 </td>
 </tr>
@@ -213,6 +225,7 @@ I teach programming publicly across a few platforms, covering Python, Go, backen
 ## Currently Building
 
 - **PLS Nexus** — AI-powered automation platform for business workflows
+- **PLS Nexus Talent Intelligence** — AI-powered resume screening backend (FastAPI, PostgreSQL, JWT auth, PDF text extraction shipped; AI analysis and candidate scoring in progress)
 - **Weekly LinkedIn Live** — Python classes taught in public
 - **Go Backend Services** — production-oriented backend systems and APIs
 - **Open-Source Projects** — tools and utilities for other developers
