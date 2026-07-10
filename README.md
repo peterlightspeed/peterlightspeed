@@ -105,7 +105,7 @@ Personal portfolio showcasing AI, backend, Python, Go, and SaaS projects. Deploy
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### PeterLightspeed Projects
 Source code from my Python, Go, AI, and web development tutorials and live coding sessions.
@@ -114,11 +114,6 @@ Source code from my Python, Go, AI, and web development tutorials and live codin
 
 [![Repo](https://img.shields.io/badge/Repo-View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/peterlightspeed/peterlightspeed_projects)
 [![Demo](https://img.shields.io/badge/Demo-N%2FA-lightgrey?style=flat-square)](#)
-
-</td>
-<td width="50%" valign="top">
-
-&nbsp;
 
 </td>
 </tr>
@@ -130,10 +125,10 @@ Source code from my Python, Go, AI, and web development tutorials and live codin
 
 I teach programming publicly across a few platforms, covering Python, Go, backend development, AI, software engineering, building SaaS products, and automation.
 
-<!-- Replace [LINKEDIN_URL], [YOUTUBE_URL], [TIKTOK_URL] with real profile links -->
-[![LinkedIn Live](https://img.shields.io/badge/LinkedIn%20Live-Weekly%20Sessions-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/peter-eluwade-5b8a73363/])
-[![YouTube](https://img.shields.io/badge/YouTube-Tutorials-FF0000?style=flat-square&logo=youtube&logoColor=white)]([https://www.youtube.com/peter_lightspeed])
-[![TikTok](https://img.shields.io/badge/TikTok-Short%20Form-000000?style=flat-square&logo=tiktok&logoColor=white)]([https://www.tiktok.com/@peterlightspeed])
+<!-- Replace these placeholder links with your real profile links -->
+[![LinkedIn Live](https://img.shields.io/badge/LinkedIn%20Live-Weekly%20Sessions-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-eluwade-5b8a73363/)
+[![YouTube](https://img.shields.io/badge/YouTube-Tutorials-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@peter_lightspeed)
+[![TikTok](https://img.shields.io/badge/TikTok-Short%20Form-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@peterlightspeed)
 [![GitHub](https://img.shields.io/badge/GitHub-Open%20Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/peterlightspeed)
 
 <br/>
@@ -230,15 +225,15 @@ I teach programming publicly across a few platforms, covering Python, Go, backen
 
 ## Connect
 
-<!-- Replace the bracketed placeholders with your real profile URLs -->
+<!-- Replace the placeholder links below with your real profile URLs -->
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://peterlightspeed.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peterlightspeed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/peter-eluwade-5b8a73363/])
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/@peter_lightspeed])
-[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)]([https://www.tiktok.com/@peterlightspeed])
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)]([https://x.com/@peterlightspeed])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-eluwade-5b8a73363/)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@peter_lightspeed)
+[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@peterlightspeed)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/peterlightspeed)
 [![Blog](https://img.shields.io/badge/Blog-Read-2F80ED?style=for-the-badge&logo=rss&logoColor=white)](https://plsworldnews.com)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:petereluwade55@gmail.com)
 
