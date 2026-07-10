@@ -26,6 +26,8 @@ I'm a Computer Science student and the founder of **PLSTech**, where I'm buildin
 
 I also learn and teach in public. Most of what I know came from building things badly first, so I document the process and share it, whether that's a livestream, a repo, or a write-up, so other developers can skip some of the friction I didn't.
 
+**Reach me:** [petereluwade55@gmail.com](mailto:petereluwade55@gmail.com) · [LinkedIn](https://www.linkedin.com/in/peter-eluwade-5b8a73363/)
+
 **Right now, I'm focused on:**
 - Building **PLS Nexus** into a production-ready SaaS platform
 - Writing backend systems in Go and Python that are boring in the best way (reliable, testable, observable)
@@ -196,8 +198,8 @@ I teach programming publicly across a few platforms, covering Python, Go, backen
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=peterlightspeed&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterlightspeed&layout=compact&hide_border=true&theme=default" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api?username=peterlightspeed&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterlightspeed&layout=compact&hide_border=true&theme=default&cache_seconds=86400" width="35%" />
 
 <br/>
 
