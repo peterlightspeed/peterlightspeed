@@ -131,7 +131,56 @@ AI-powered resume screening backend. Currently ships secure JWT authentication, 
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### Production Contact System
+A production-ready, serverless contact system for my portfolio, handling text and file-attachment submissions directly from a static site while keeping API keys secure. See the dedicated section below for the full breakdown.
+
+**Stack:** Cloudflare Workers · Resend Email API · JavaScript · HTML/CSS
+
+[![Live Site](https://img.shields.io/badge/Live%20Site-Visit-2F80ED?style=flat-square&logo=githubpages&logoColor=white)](https://peterlightspeed.github.io/portfolio/)
+[![Status](https://img.shields.io/badge/Status-Completed-2F9E44?style=flat-square)](#)
+
+</td>
+</tr>
 </table>
+
+<br/>
+
+## Production Contact System
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Status-Completed-2F9E44?style=flat-square" />
+<img src="https://img.shields.io/badge/Type-Serverless%20Backend-1E1E1E?style=flat-square" />
+
+I designed and deployed a production-ready contact system for my portfolio, replacing a basic form service with a custom serverless backend. It lets visitors submit project requests **with file attachments** (logos, documents, briefs) directly from the site, while API keys stay secure server-side through Cloudflare Worker Secrets — nothing sensitive is ever exposed in the frontend code.
+
+**Stack:**
+
+<img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Resend%20Email%20API-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Multipart%20File%20Uploads-2F80ED?style=flat-square" />
+<img src="https://img.shields.io/badge/Secure%20Env%20Secrets-2F80ED?style=flat-square" />
+<img src="https://img.shields.io/badge/CORS%20Handling-2F80ED?style=flat-square" />
+<img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=flat-square&logo=githubpages&logoColor=white" />
+
+**Engineering challenges solved:**
+- Building a backend for a static site with no traditional server
+- Handling multipart form submissions containing both text fields and files
+- Sending email attachments programmatically through the Resend API
+- Configuring CORS so the GitHub Pages frontend could call the Worker safely
+- Managing API keys securely using Cloudflare Worker Secrets instead of exposing them client-side
+- Debugging a live third-party API integration end-to-end
+- Deploying and testing a serverless function in production
+
+[![Live Site](https://img.shields.io/badge/Live%20Site-Visit-2F80ED?style=flat-square&logo=githubpages&logoColor=white)](https://peterlightspeed.github.io/portfolio/)
+
+</div>
 
 <br/>
 
@@ -174,6 +223,7 @@ I teach programming publicly across a few platforms, covering Python, Go, backen
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20APIs-2F80ED?style=flat-square" />
 <img src="https://img.shields.io/badge/OpenRouter-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 
 **Tools**
 
@@ -217,7 +267,7 @@ I teach programming publicly across a few platforms, covering Python, Go, backen
 
 | Stage | Focus |
 |---|---|
-| **Completed** | Core Python & Go fundamentals, first client and personal websites, first production data pipeline (Nigerian SMB Data Sanitizer) |
+| **Completed** | Core Python & Go fundamentals, first client and personal websites, first production data pipeline (Nigerian SMB Data Sanitizer), production contact system for portfolio (Cloudflare Workers + Resend) |
 | **Learning** | Advanced Go, distributed systems, system design, cloud deployment, AI agents |
 | **Building** | PLS Nexus (AI SaaS platform), backend services in Go, public teaching content |
 | **Future Goals** | Scale PLS Nexus to paying customers, contribute to major open-source projects, grow a teaching audience across platforms |
